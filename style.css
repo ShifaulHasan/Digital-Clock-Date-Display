@@ -21,3 +21,8 @@ body{
   margin: 0;
 }
 
+#date {
+  font-size: 22px;
+  margin-top: 10px;
+  opacity: 0.8;
+}
