@@ -13,7 +13,6 @@ This project displays the **current time** (hours, minutes, seconds with AM/PM) 
 - Responsive and modern UI with gradient background  
 - Easy to customize design using CSS  
 
-*(Optional enhancement: Dark/Light mode toggle, 24-hour format)*
 
 ---
 
@@ -36,12 +35,6 @@ This project displays the **current time** (hours, minutes, seconds with AM/PM) 
 2. **setInterval()** updates the clock every 1000 milliseconds (1 second)  
 3. DOM elements (`#time` and `#date`) are updated dynamically using `textContent`  
 4. Hours, minutes, and seconds are formatted with leading zeros and AM/PM  
-
----
-
-## 📸 Screenshot
-
-*(Add screenshot of your clock here if you want)*
 
 ---
 
